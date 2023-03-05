@@ -3,9 +3,11 @@
     width: 100%;
 }
 .login{
+    display:flex;
     height : 5vh;
     width: 100%;
     flex-direction: row-reverse;
+    justify-content:space-between;
 }
 h1{
     font-style:Normal;
