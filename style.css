@@ -29,7 +29,7 @@
     background-color:White;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 .twix{
@@ -140,4 +140,8 @@ img{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+}
+a{
+    color: black;
+    text-decoration: none;
 }
